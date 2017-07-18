@@ -20,7 +20,7 @@
                             <li><a href="#section7" data-section="7">7. Adult policy</a></li>
                             <li><a href="#section8" data-section="8">8. Access to information</a></li>
                             <li><a href="#section9" data-section="9">9. Changes to this policy</a></li>
-                            <li><a href="#section10" data-section="10">10. Questions or comments</a></li>
+<%--                            <li><a href="#section10" data-section="10">10. Questions or comments</a></li>--%>
 
                         </ul>
                     </div>
